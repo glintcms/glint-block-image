@@ -1,6 +1,6 @@
 {
   "name": "glint-block-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Editable Image Block",
   "main": "server.js",
   "browser": "browser.js",
