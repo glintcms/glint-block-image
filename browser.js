@@ -1,8 +1,8 @@
 /**
  * Module dependencies.
  */
+var debug = require('debug')('glint-block-image');
 var fs = require('fs');
-var debug = require('debug')('glint:ImageBlock');
 var merge = require('utils-merge');
 
 var dot = require('dot');
